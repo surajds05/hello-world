@@ -1,4 +1,4 @@
 # hello-world
-Sample reporsitory
+Sample 
 
 Just trying out github
